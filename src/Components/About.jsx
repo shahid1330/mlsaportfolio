@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Greetings! I'm Mohammad Shahid Raza, a dedicated BCA student at Amity University Jharkhand, with a keen interest in technology. Recently, I had the privilege of completing a project internship at the Jharkhand Space Application Center, where I delved into the captivating realm of Machine Learning. My journey into the field of technology has ignited a passion within me, especially in programming and tackling challenges head-on. I'm particularly enamored with contributing to open-source projects, as they allow me to collaborate with like-minded individuals and make a meaningful impact in the tech community. Furthermore, I find immense joy in serving the community by sharing my knowledge and experiences, fostering a culture of learning and growth among peers.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Software Engineer",
+  "AI & ML enthusiast",
+  "Problem Solving",
+  "Team Leader",
+  "Data Analyst",
+  "Public Speaker",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation.";
 
 const About = () => {
   return (

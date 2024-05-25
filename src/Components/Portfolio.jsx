@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Flower Iris Classification using Machine Learning",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Created a project to classify the flower based on their sepal length, width and petal length, width. Created a GUI where a person can enter the length according to him and model will classify the species.",
+    url: "https://github.com/shahid1330/Flower-Iris-Classification",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Crop Yield Prediction using Machine Learning",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed a Machine Learning model to predict the crop yield for Jharkhand state based on data received from IMD.",
+    url: "https://github.com/shahid1330/JSAC-Crop-Yield-Prediction",
   },
   {
-    title: "My Resume Site",
+    title: "Wine Quality Prediction using Machine Learning",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created a Machine Learning model to classify the quality of wine based on data received from Kaggle.",
+    url: "https://github.com/shahid1330/Wine_Quality_Prediction",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "CRUD application using JavaEE.",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created a CRUD application using JavaEE and MySQL database, JSP and Servlets. User can perform CRUD operations on the database.",
+    url: "https://github.com/shahid1330/CRUD_Project",
   },
 ];
 
